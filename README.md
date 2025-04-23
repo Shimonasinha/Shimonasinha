@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shimonasinha
 - 👀 I’m interested in ...coding,reading,singing 
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...CN
 - 💞️ I’m looking to collaborate on ...GSCOC
 - 📫 How to reach me ...college pes
 <!---
